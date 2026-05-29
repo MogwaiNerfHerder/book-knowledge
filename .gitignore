@@ -31,3 +31,7 @@ Thumbs.db
 .pytest_cache/
 .coverage
 htmlcov/
+
+# Nightly KB pipeline runtime
+books.db.bak.*
+logs/
